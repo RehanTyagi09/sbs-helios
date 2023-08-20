@@ -12,7 +12,7 @@ Here, you will find some resources you can access.
 ### 👥 Current Helios Leadership
 - **President:** [@Shauryaveer Chaudhry](https://github.com/Binary010100)
 - **Directors:**  Samya Singh, Vikram Aditya Ghose
-- **Vice Presidents:** Rehaan Tyagi, Navya Dewan
+- **Vice Presidents:** Rehan Tyagi, Navya Dewan
 <hr width="35%">
 
 #### Core Team
